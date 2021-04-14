@@ -1,5 +1,8 @@
 # su-thrift-store
 
+#https://su-thrift-store.netlify.app
+
+
 > Thrift Store for SU students
 
 ## Build Setup
